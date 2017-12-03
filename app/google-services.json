@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "428805674408",
+    "firebase_url": "https://fakemailer-280f1.firebaseio.com",
+    "project_id": "fakemailer-280f1",
+    "storage_bucket": "fakemailer-280f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428805674408:android:fa9423b1e3a5b9bf",
+        "android_client_info": {
+          "package_name": "gq.fakemailer.fakemailer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428805674408-hog49pdr3hpovmot1oj7ngblqpracse0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gq.fakemailer.fakemailer",
+            "certificate_hash": "37ac7916aa43598161940da9591cab815bf7f835"
+          }
+        },
+        {
+          "client_id": "428805674408-ssmm1if8vrtq5plqrs5r7aqdsh6q4knv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsFuZuPcl4uZMAid7PAJ7O0Qz6N4mco4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428805674408-ssmm1if8vrtq5plqrs5r7aqdsh6q4knv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

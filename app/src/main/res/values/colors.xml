@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3fb57a</color>
+    <color name="colorPrimaryDark">#289760</color>
+    <color name="colorAccent">#000000</color>
+    <color name="email">#9ad1c7</color>
+    <color name="black">#020202</color>
+    <color name="white">#fff</color>
+    <color name="error">#ef5c5c</color>
+    <color name="blue">#077bd4</color>
+</resources>
